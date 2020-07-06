@@ -11,5 +11,7 @@
   </samp>
 </p>
 
-**:telescope: 2020 goal**<br><br>
-I want to make a little game this year.<br>I'm currently working on a small gameboy game with [**@tfgrimes**](https://github.com/tfgrimes) using [GBStudio.dev](https://github.com/chrismaltby/gb-studio), which is an awesome game creator tool that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
+<details>
+  <summary><b>:telescope: 2020 goal</b></summary>
+  I want to make a little game this year.<br>I'm currently working on a small gameboy game with [**@tfgrimes**](https://github.com/tfgrimes) using [GBStudio.dev](https://github.com/chrismaltby/gb-studio), which is an awesome game creator tool that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
+</details>
