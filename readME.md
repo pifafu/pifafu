@@ -13,6 +13,7 @@
 
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
+  ✅ I DID IT! I finally focused on a body of work in pottery. I'm damn proud. Going to keep it up, but slowly. :) [**Check it out**](https://prettygood.club/).<br>
   I didn't complete my 2020 goal, but it was a crazy different year 😂 In 2021, I want to finally have a portfolio site and make an online storefront for my <a href="https://www.instagram.com/prettygoodclub/" target="_blank">pottery</a>. Here's to new aspirations and forgiving yourself for not finishing every goal you set for yourself for the new year.
 </details>
 
