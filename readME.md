@@ -1,19 +1,36 @@
-<p align="center">
+<p align="left">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-    :wave: Hi! I design for <a href="https://www.optimism.io/">Optimism</a>.
-    <br>Before that, I designed at GitHub for 6+ years!
-      <br>I think GitHub is <em>so cool</em> and still use it :D
-    <br>Today, I'm still learning to make things :sparkles:<br><br>
+    Hi! I'm currently designing at OP Labs, contributing to <a href="https://www.optimism.io/">Optimism</a>'s vision.
+    <br>Before that, I designed at GitHub for 6+ years.
+  </samp>
+</p>
+
+<p align="right">
+  <samp>
+    <br>It was here where I grew up,
+    <br>developed my opinions
+    <br>and became a GitHub maxi.
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    <br>I continue to learn to make things :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a>
   </samp>
 </p>
 
 <details>
-  <summary><b>:telescope: 2022 goal</b></summary>
-   I forgot to write down a goal last year! I'll commit to something and set a goal for 2023: learn about and design for governance — try to make web3 easier to use and understand.
+  <summary><b>:telescope: 2023 goal</b></summary>
+   I've become deeply committed to [Optimism's vision](https://www.optimism.io/vision) of the decentralized future. My most important goal this year is to grow the design function at OP Labs such that I'm the worst designer on the team. Building this design team will be my ongoing contribution in supporting Optimism's progress on solving gnarly problems like public goods funding, identity, and contribution in web3.
+</details>
+
+<details>
+  <summary><b>:cyclone: 2022 goal</b></summary>
+   My 2022 goal was to start learning and designing for governance in web3. This is still an ongoing journey, but I've made some progress through my time at OP Labs :relieved:
 </details>
 
 <details>
