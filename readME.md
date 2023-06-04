@@ -1,25 +1,34 @@
-<p align="left">
+<p align="center">
   <br><br>
   <samp>
-    <img src="https://github.com/ethereum-optimism/design/assets/5679180/93b5e464-4309-4f8e-ad8b-f14c326600df" width="28px">
-    <br>Hi! I'm currently designing at OP Labs,
+    Hi! I'm currently designing at OP Labs,
     <br>contributing to <a href="https://www.optimism.io/">Optimism</a>'s vision.
   </samp>
 </p>
 
-<p align="right">
+<p align="center">
   <samp>
-    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
-    <br>Before that, I designed at GitHub for 6+ years.
-    <br>It was here where I grew up,
-    <br>developed my opinions
+    <img src="https://github.com/ethereum-optimism/design/assets/5679180/93b5e464-4309-4f8e-ad8b-f14c326600df" width="28px">
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    Before that, I designed for GitHub for 6+ years.
+    <br>It was here where I grew up, developed my opinions,
     <br>and became a GitHub maxi.
   </samp>
 </p>
 
 <p align="center">
   <samp>
-    <br>I'll always be learning and growing // :coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a><br><br>
+    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    @ me on <a href="https://twitter.com/pifafu">Twitter</a><br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
