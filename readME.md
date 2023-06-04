@@ -1,14 +1,16 @@
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-    Hi! I'm currently designing at OP Labs, contributing to <a href="https://www.optimism.io/">Optimism</a>'s vision.
-    <br>Before that, I designed at GitHub for 6+ years.
+    <img src="https://github.com/ethereum-optimism/design/assets/5679180/93b5e464-4309-4f8e-ad8b-f14c326600df" width="28px">
+    <br>Hi! I'm currently designing at OP Labs,
+    <br>contributing to <a href="https://www.optimism.io/">Optimism</a>'s vision.
   </samp>
 </p>
 
 <p align="right">
   <samp>
+    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
+    <br>Before that, I designed at GitHub for 6+ years.
     <br>It was here where I grew up,
     <br>developed my opinions
     <br>and became a GitHub maxi.
@@ -17,9 +19,8 @@
 
 <p align="center">
   <samp>
-    <br>I continue to learn to make things :sparkles:<br><br>
+    <br>I'll always be learning and growing // :coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a><br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a>
   </samp>
 </p>
 
