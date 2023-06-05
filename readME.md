@@ -7,7 +7,7 @@
 
 <p align="center">
   <samp>
-    <img src="https://github.com/ethereum-optimism/design/assets/5679180/93b5e464-4309-4f8e-ad8b-f14c326600df" width="28px">
+    <img src="https://github.com/pifafu/pifafu/assets/5679180/07d226f9-2b92-4077-af43-37c92be369f2" width="28px">
   </samp>
 </p>
 
