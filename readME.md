@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
-    Hi! I'm currently designing at <a href="https://www.oplabs.co/">OP Labs</a>,
-    <br>contributing to <a href="https://www.optimism.io/">Optimism</a>'s vision.
+    Hi! I'm currently leading the design team at <a href="https://www.optimism.io/">Optimism</a>,
+    <br>contributing to <a href="https://www.optimism.io/">the vision to scale Ethereum</a>.
   </samp>
 </p>
 
